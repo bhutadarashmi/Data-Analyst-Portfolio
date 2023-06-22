@@ -1,5 +1,43 @@
 # Data-Analyst-Portfolio
 
-I have total 5.8 years of experience in data analysis, data modelling and software development. Proficiency in understanding the business needs of clients, developing effective & efficient solutions, & ensuring client deliverables within committed timelines. Efficient in all phases of software development life cycle (SDLC), agile and waterfall methodologies. Good knowledge and experience in data analysis, visualization using Tableau, Qlik Sense and Power BI, building model, prediction and forecasting data using SQL, HiveQL, statistical tools. Adept in RDBMS such as SQL, MySQL and skilled at writing SQL queries using stored   procedures and window functions. Consistently saved costs while increasing efficiencies. Motivated to learn, grow, and excel in the IT industry.
+•	Overall, 6 years of experience in data analysis, data modeling and software development. Proficient in understanding the business needs of clients, developing efficient solutions, and ensuring client deliverables within committed timelines.
+•	Efficient in all phases of software development life cycle (SDLC), agile/scrum and waterfall methodologies.
+•	Experienced in data analysis, visualization (Tableau), building models, and conducting predictions using SQL, Big Query, and statistical tools. Familiar with Google Cloud Platform services for data processing and storage.
+•	Adept in RDBMS such as SQL, MySQL and skilled at writing SQL queries using stored procedures and window functions.
+•	Consistently saved costs while increasing efficiencies. Motivated to learn, grow, and excel in the IT industry.
 
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
+
+**Top Skills:**
+
+1. SQL -
+   • SQL Filtering
+   • Grouping functions
+   • String, timestamp, etc intermediate functions
+   • CASE WHEN, CAST, COALESCE, REPLACE, etc Conditional expressions
+   • JOINS
+   • UNION, UNION ALL, Subqueries
+   • Managing tables and databases
+   • Views and data manipulations
+   • Window functions
+   • Grouping sets, rollups, self-joins
+   • Stored procedures, transactions, user-defined functions
+   • Indexes, partitioning, query optiomization
+   • SQL challenges and quizzes, small projects
+
+Udemy certifications on SQL: The complete SQL Masterclass 2023
+
+2. Tableau -
+   • Data visualization using Tableau
+   • Visual analytics
+   • Maps and location
+   • Colour vision deficiency
+   • Advanced calculations
+   • Dashboards and stories
+   • Advanced dashboard
+
+Udemy certifications on SQL: The complete Tableau bootcamp for data visualization
+Tableau public link: https://public.tableau.com/app/profile/rashmi.bhutada
+
+3. Google Cloud Services -
+   • 
