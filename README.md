@@ -17,4 +17,12 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 Udemy **certification** on SQL: The complete Tableau bootcamp for data visualization
 
-3. Google Cloud Services - 
+3. Google Cloud Services -
+   1. Exploring and Preparing Data with BigQuery
+   2. Creating New BigQuery Datasets and Visualizing Insights
+  
+**Google Cloud platform training and certifications profile**: https://partner.cloudskillsboost.google/public_profiles/a1edd24f-41b1-43ba-8cd5-8fb83897a739
+
+1. Python - Python object and data structure basics, comparison operators, statements, methods & functions, object oriented programming, modules & packages, errors and exception handling, Python decorators & generators, advanced Python modules, web scrapping with Python, working with images in Python, Capstone projects, etc
+
+   Udemy **certification** on SQL: The complete Python bootcamp from zero to hero in Python
