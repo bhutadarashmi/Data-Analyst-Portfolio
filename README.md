@@ -1,28 +1,38 @@
-# Data-Analyst-Portfolio
+# Data Analytics and Software Development Portfolio
 
-Overall, 6 years of experience in data analysis, data modeling and software development. Proficient in understanding the business needs of clients, developing efficient solutions, and ensuring client deliverables within committed timelines. Efficient in all phases of software development life cycle (SDLC), agile/scrum and waterfall methodologies. Experienced in data analysis, visualization (Tableau), building models, and conducting predictions using SQL, Big Query, and statistical tools. Familiar with Google Cloud Platform services for data processing and storage. Adept in RDBMS such as SQL, MySQL and skilled at writing SQL queries using stored procedures and window functions. Consistently saved costs while increasing efficiencies. Motivated to learn, grow, and excel in the IT industry.
+Welcome to my GitHub repository! This portfolio serves as a platform to showcase my skills and share my projects related to data analytics and software development. I have a total of 6 years of experience in this field, with expertise in understanding business needs, developing efficient solutions, and delivering client projects within committed timelines. I am proficient in all phases of the software development life cycle (SDLC), including agile/scrum and waterfall methodologies.
 
-This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
+## Skills
 
-**Top Skills:**
+### SQL
+I have a strong command of SQL and have worked extensively with various functionalities, such as filtering, grouping functions, conditional expressions, joins, subqueries, and window functions. I am experienced in managing tables and databases, creating views, and performing data manipulations. I have also developed stored procedures, transactions, and user-defined functions. I am skilled in optimizing queries, using indexes, and partitioning. I have successfully completed SQL challenges, quizzes, and small projects.
 
-1. SQL - SQL Filtering, Grouping functions, String, timestamp, etc intermediate functions, CASE WHEN, CAST, COALESCE, REPLACE, etc Conditional expressions, JOINS,       UNION, UNION ALL, Subqueries, Managing tables and databases, Views and data manipulations, Window functions, Grouping sets, rollups, self-joins, Stored          
-   procedures, transactions, user-defined functions, Indexes, partitioning, query optiomization, SQL challenges and quizzes, small projects
+- Udemy Certification: [The Complete SQL Masterclass 2023](https://www.linkedin.com/in/rashmi-bhutada/details/certifications/)
 
-   Udemy **certification** on SQL: The complete SQL Masterclass 2023
+### Tableau
+I am proficient in data visualization using Tableau. I have expertise in visual analytics, creating maps and location-based visualizations, handling color vision deficiency, advanced calculations, and designing interactive dashboards and stories.
 
-2. Tableau - Data visualization using Tableau, Visual analytics, Maps and location, Colour vision deficiency, Advanced calculations, Dashboards and stories, Advanced    dashboard
+- Tableau Public Profile: [Link to showcase my Tableau skills](https://public.tableau.com/app/profile/rashmi.bhutada)
+- Udemy Certification: [Tableau Bootcamp for Data Visualization](https://www.linkedin.com/in/rashmi-bhutada/details/certifications/)
 
-**The link to showcase my skills of Tableau**: https://public.tableau.com/app/profile/rashmi.bhutada
+### Google Cloud Services
+I am familiar with Google Cloud Platform services, particularly in data processing and storage. I have hands-on experience with BigQuery, including exploring and preparing data, creating datasets, and visualizing insights.
 
-Udemy **certification** on SQL: The complete Tableau bootcamp for data visualization
+- Google Cloud Platform Training and Certifications Profile: [Link to my Google Cloud Platform profile](https://partner.cloudskillsboost.google/public_profiles/a1edd24f-41b1-43ba-8cd5-8fb83897a739)
 
-3. Google Cloud Services -
-   1. Exploring and Preparing Data with BigQuery
-   2. Creating New BigQuery Datasets and Visualizing Insights
-  
-**Google Cloud platform training and certifications profile**: https://partner.cloudskillsboost.google/public_profiles/a1edd24f-41b1-43ba-8cd5-8fb83897a739
+### Python
+I have a solid foundation in Python programming, covering various topics such as object and data structure basics, comparison operators, control flow statements, methods and functions, object-oriented programming, modules and packages, error handling, decorators and generators, advanced modules, web scraping, working with images, and capstone projects.
 
-1. Python - Python object and data structure basics, comparison operators, statements, methods & functions, object oriented programming, modules & packages, errors and exception handling, Python decorators & generators, advanced Python modules, web scrapping with Python, working with images in Python, Capstone projects, etc
+- Udemy Certification: [The Complete Python Bootcamp from Zero to Hero in Python](https://www.linkedin.com/in/rashmi-bhutada/details/certifications/)
 
-   Udemy **certification** on SQL: The complete Python bootcamp from zero to hero in Python
+## Certification
+I have obtained relevant certifications to validate my skills in SQL, Tableau, and Python. Please find the certification details below:
+
+- SQL: The Complete SQL Masterclass 2023
+- Tableau: The Complete Tableau Bootcamp for Data Visualization
+- Python: The Complete Python Bootcamp from Zero to Hero in Python
+
+## Contact
+I am motivated to learn, grow, and excel in the IT industry. If you have any inquiries or opportunities, please feel free to reach out to me at [rashmirb@umich.edu].
+
+Thank you for visiting my portfolio!
