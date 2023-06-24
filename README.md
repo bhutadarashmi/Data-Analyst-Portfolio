@@ -2,6 +2,8 @@
 
 Welcome to my GitHub repository! This portfolio serves as a platform to showcase my skills and share my projects related to data analytics and software development. I have a total of 6 years of experience in this field, with expertise in understanding business needs, developing efficient solutions, and delivering client projects within committed timelines. I am proficient in all phases of the software development life cycle (SDLC), including agile/scrum and waterfall methodologies.
 
+I embrace a tapestry of passions that shape my individual journey outside of the confines of my programming activities. My life moves to a vibrant symphony of varied hobbies, from exploring new horizons and relishing the marvels of exploration to indulging in the craft of cooking and finding refuge in the melodies of music. I hike occasionally to get a closer look at nature's spectacular grandeur while cycling through picturesque landscapes with the wind in my hair. Above all, spending time with my family warms my heart and fosters connections that motivate and encourage me. Join me as we set off on a remarkable journey where software development and data analytics converge with the pleasures of life.
+
 ## Skills
 
 ### SQL
