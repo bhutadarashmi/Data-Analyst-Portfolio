@@ -1,4 +1,4 @@
-# Data Analytics and Software Development Portfolio
+# Data Analytics and Analytics Engineer Portfolio
 
 Welcome to my GitHub repository! This portfolio serves as a platform to showcase my skills and share my projects related to data analytics and software development. I have a total of 6 years of experience in this field, with expertise in understanding business needs, developing efficient solutions, and delivering client projects within committed timelines. I am proficient in all phases of the software development life cycle (SDLC), including agile/scrum and waterfall methodologies.
 
