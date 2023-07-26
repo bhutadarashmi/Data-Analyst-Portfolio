@@ -27,14 +27,7 @@ I have a solid foundation in Python programming, covering various topics such as
 
 - Udemy Certification: [The Complete Python Bootcamp from Zero to Hero in Python](https://github.com/bhutadarashmi/Data-Analyst-Portfolio/blob/main/certifications/Python.pdf)
 
-## Certification
-I have obtained relevant certifications to validate my skills in SQL, Tableau, and Python. Please find the certification details below:
-
-- SQL: The Complete SQL Masterclass 2023
-- Tableau: The Complete Tableau Bootcamp for Data Visualization
-- Python: The Complete Python Bootcamp from Zero to Hero in Python
-
 ## Contact
-I am motivated to learn, grow, and excel in the IT industry. If you have any inquiries or opportunities, please feel free to reach out to me at [rashmirb@umich.edu]
+I am motivated to learn, grow, and excel in the IT industry. If you have any inquiries or opportunities, please feel free to reach out to me at [rashmirb@umich.edu].
 
 Thank you for visiting my portfolio!
