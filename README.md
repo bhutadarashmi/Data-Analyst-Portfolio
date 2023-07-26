@@ -35,6 +35,6 @@ I have obtained relevant certifications to validate my skills in SQL, Tableau, a
 - Python: The Complete Python Bootcamp from Zero to Hero in Python
 
 ## Contact
-I am motivated to learn, grow, and excel in the IT industry. If you have any inquiries or opportunities, please feel free to reach out to me at [rashmirb@umich.edu].
+I am motivated to learn, grow, and excel in the IT industry. If you have any inquiries or opportunities, please feel free to reach out to me at [rashmirb@umich.edu]
 
 Thank you for visiting my portfolio!
