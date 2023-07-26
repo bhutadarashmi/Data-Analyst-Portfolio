@@ -18,7 +18,7 @@ I am proficient in data visualization using Tableau. I have expertise in visual 
 - Udemy Certification: [Tableau Bootcamp for Data Visualization](https://github.com/bhutadarashmi/Data-Analyst-Portfolio/blob/main/certifications/Tableau.pdf)
 
 ### Google Cloud Services
-I am familiar with Google Cloud Platform services, particularly in data processing and storage. I have hands-on experience with BigQuery, including exploring and preparing data, creating datasets, and visualizing insights.
+I am familiar with Google Cloud Platform services, particularly in data processing and storage. I have hands-on experience with BigQuery, including exploring and preparing data, creating datasets, and visualizing insights. I have hands on experience with Google analytics tool, also I work with creating workflow/data pipelines through Google data flow tool.
 
 - Google Cloud Platform Training and Certifications Profile: [Link to my Google Cloud Platform profile](https://partner.cloudskillsboost.google/public_profiles/a1edd24f-41b1-43ba-8cd5-8fb83897a739)
 
