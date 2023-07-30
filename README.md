@@ -7,7 +7,15 @@ I embrace a tapestry of passions that shape my individual journey outside of the
 ## Skills
 
 ### SQL
-I have a strong command of SQL and have worked extensively with various functionalities, such as filtering, grouping functions, conditional expressions, joins, subqueries, and window functions. I am experienced in managing tables and databases, creating views, and performing data manipulations. I have also developed stored procedures, transactions, and user-defined functions. I am skilled in optimizing queries, using indexes, and partitioning. I have successfully completed SQL challenges, quizzes, and small projects.
+I have a strong command of SQL and have worked extensively with various functionalities, such as:
+
+Filtering: I am able to filter data based on specific criteria, such as a customer's location or a product's price.
+Grouping functions: I am able to group data together and calculate summary statistics, such as the average order value or the number of customers in a particular region.
+Conditional expressions: I am able to use conditional expressions to filter data based on specific conditions, such as whether a customer has made a purchase in the past year or whether a product is in stock.
+Joins: I am able to join different tables together to create a single dataset. This allows me to analyze data from multiple sources and identify relationships between different entities.
+Subqueries: I am able to use subqueries to embed a query within another query. This allows me to perform complex data manipulations and extract specific data from a dataset.
+Window functions: I am able to use window functions to calculate statistical measures over a window of data. This allows me to analyze data trends and identify outliers.
+I am experienced in managing tables and databases, creating views, and performing data manipulations. I have also developed stored procedures, transactions, and user-defined functions. I am skilled in optimizing queries, using indexes, and partitioning. I have successfully completed SQL challenges, quizzes, and small projects.
 
 - Udemy Certification: [The Complete SQL Masterclass 2023](https://github.com/bhutadarashmi/Data-Analyst-Portfolio/blob/main/certifications/SQL.pdf)
 
