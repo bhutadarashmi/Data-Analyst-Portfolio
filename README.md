@@ -1,8 +1,10 @@
 # Data Analytics and Analytics Engineer Portfolio
 
-Welcome to my GitHub repository! This portfolio serves as a platform to showcase my skills and share my projects related to data analytics and software development. I have a total of 6 years of experience in this field, with expertise in understanding business needs, developing efficient solutions, and delivering client projects within committed timelines. I am proficient in all phases of the software development life cycle (SDLC), including agile/scrum and waterfall methodologies.
-
-I embrace a tapestry of passions that shape my individual journey outside of the confines of my programming activities. My life moves to a vibrant symphony of varied hobbies, from exploring new horizons and relishing the marvels of exploration to indulging in the craft of cooking and finding refuge in the melodies of music. I hike occasionally to get a closer look at nature's spectacular grandeur while cycling through picturesque landscapes with the wind in my hair. Above all, spending time with my family warms my heart and fosters connections that motivate and encourage me. Join me as we set off on a remarkable journey where software development and data analytics converge with the pleasures of life.
+Hey there! I see you've been checking out my profile. I'm glad you're interested in learning more about me. I'll give you a quick rundown of my skills and experience, but be warned, it might be a little bit of a wild ride.
+In my 6 years in the industry, I've successfully delivered multiple projects start-to-end. I've analyzed global sales and maintenance data, automated sales reports, and developed KPIs. I've also increased team productivity and client satisfaction by incorporating Google BigQuery and Data Flow tools. I've enhanced data quality by integrating automated data validation checks and corrective actions into the ETL pipeline.
+I've developed and maintained property management system applications using SQL, Informatica, Python, and web scripting languages. I've also communicated business performance findings using PowerBI to draw actionable insights for clients. And I've built automated workflows for Marketing and Leasing using Informatica, an ETL tool, to turn prospects into residents.
+I believe that my skills and experience make me a valuable asset to any team. I'm a highly motivated and results-oriented individual with a strong track record of success. I'm also a quick learner and I'm always eager to take on new challenges.
+So, if you're looking for someone who can get the job done and have a little fun along the way, you are the right place. Let’s connect and get to learn more about each other.
 
 ## Skills
 
@@ -34,6 +36,22 @@ I am familiar with Google Cloud Platform services, particularly in data processi
 I have a solid foundation in Python programming, covering various topics such as object and data structure basics, comparison operators, control flow statements, methods and functions, object-oriented programming, modules and packages, error handling, decorators and generators, advanced modules, web scraping, working with images, and capstone projects.
 
 - Udemy Certification: [The Complete Python Bootcamp from Zero to Hero in Python](https://github.com/bhutadarashmi/Data-Analyst-Portfolio/blob/main/certifications/Python.pdf)
+
+### Master Data Management, Informatica
+I am proficient with conectpts as:
+  MDM Architecture
+  MDM Framework
+  Tables in MDM such as Landing Tables, Staging Tables, and Base Object tables
+  Match Column configuration
+  Match Rule Setup
+  Understanding Exact and Fuzzy match
+  Stage, load, and Match-Merge jobs
+  Raw Retention at Stage Table
+  Delta Detection process
+  Tokenization
+  Consolidation Process
+
+- Informatica Master Data Management Concepts (MDM) Certification: 
 
 ## Contact
 I am motivated to learn, grow, and excel in the IT industry. If you have any inquiries or opportunities, please feel free to reach out to me at [rashmirb@umich.edu].
