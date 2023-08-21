@@ -39,16 +39,16 @@ I have a solid foundation in Python programming, covering various topics such as
 
 ### Master Data Management, Informatica
 I am proficient with conectpts as:
-  MDM Architecture
-  MDM Framework
-  Tables in MDM such as Landing Tables, Staging Tables, and Base Object tables
-  Match Column configuration
-  Match Rule Setup
-  Understanding Exact and Fuzzy match
-  Stage, load, and Match-Merge jobs
-  Raw Retention at Stage Table
-  Delta Detection process
-  Tokenization
+  MDM Architecture,
+  MDM Framework,
+  Tables in MDM such as Landing Tables, Staging Tables, and Base Object tables,
+  Match Column configuration,
+  Match Rule Setup,
+  Understanding Exact and Fuzzy match,
+  Stage, load, and Match-Merge jobs,
+  Raw Retention at Stage Table,
+  Delta Detection process,
+  Tokenization,
   Consolidation Process
 
 - Udemy Certification: [Informatica Master Data Management Concepts (MDM) Certification](https://github.com/bhutadarashmi/Data-Analyst-Portfolio/blob/main/certifications/MDM.pdf)
