@@ -1,9 +1,10 @@
 # Data Analytics and Analytics Engineer Portfolio
 
 Hey there! I see you've been checking out my profile. I'm glad you're interested in learning more about me. I'll give you a quick rundown of my skills and experience, but be warned, it might be a little bit of a wild ride.
-In my 6 years in the industry, I've successfully delivered multiple projects start-to-end. I've analyzed global sales and maintenance data, automated sales reports, and developed KPIs. I've also increased team productivity and client satisfaction by incorporating Google BigQuery and Data Flow tools. I've enhanced data quality by integrating automated data validation checks and corrective actions into the ETL pipeline.
-I've developed and maintained property management system applications using SQL, Informatica, Python, and web scripting languages. I've also communicated business performance findings using PowerBI to draw actionable insights for clients. And I've built automated workflows for Marketing and Leasing using Informatica, an ETL tool, to turn prospects into residents.
+
+In my 6 years in the industry, I've successfully delivered multiple projects start-to-end. I've analyzed global sales and maintenance data, automated sales reports, and developed KPIs. I've also increased team productivity and client satisfaction by incorporating Google BigQuery and Data Flow tools. I've enhanced data quality by integrating automated data validation checks and corrective actions into the ETL pipeline. I've developed and maintained property management system applications using SQL, Informatica, Python, and web scripting languages. I've also communicated business performance findings using PowerBI to draw actionable insights for clients. And I've built automated workflows for Marketing and Leasing using Informatica, an ETL tool, to turn prospects into residents.
 I believe that my skills and experience make me a valuable asset to any team. I'm a highly motivated and results-oriented individual with a strong track record of success. I'm also a quick learner and I'm always eager to take on new challenges.
+
 So, if you're looking for someone who can get the job done and have a little fun along the way, you are the right place. Let’s connect and get to learn more about each other.
 
 ## Skills
@@ -39,16 +40,16 @@ I have a solid foundation in Python programming, covering various topics such as
 
 ### Master Data Management, Informatica
 I am proficient with conectpts as:
-  MDM Architecture,
-  MDM Framework,
-  Tables in MDM such as Landing Tables, Staging Tables, and Base Object tables,
-  Match Column configuration,
-  Match Rule Setup,
-  Understanding Exact and Fuzzy match,
-  Stage, load, and Match-Merge jobs,
-  Raw Retention at Stage Table,
-  Delta Detection process,
-  Tokenization,
+  MDM Architecture
+  MDM Framework
+  Tables in MDM such as Landing Tables, Staging Tables, and Base Object tables
+  Match Column configuration
+  Match Rule Setup
+  Understanding Exact and Fuzzy match
+  Stage, load, and Match-Merge jobs
+  Raw Retention at Stage Table
+  Delta Detection process
+  Tokenization
   Consolidation Process
 
 - Udemy Certification: [Informatica Master Data Management Concepts (MDM) Certification](https://github.com/bhutadarashmi/Data-Analyst-Portfolio/blob/main/certifications/MDM.pdf)
