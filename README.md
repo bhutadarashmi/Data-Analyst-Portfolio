@@ -51,7 +51,7 @@ I am proficient with conectpts as:
   Tokenization
   Consolidation Process
 
-- Informatica Master Data Management Concepts (MDM) Certification: 
+- Informatica Master Data Management Concepts (MDM) Certification: https://github.com/bhutadarashmi/Data-Analyst-Portfolio/blob/main/certifications/MDM.pdf
 
 ## Contact
 I am motivated to learn, grow, and excel in the IT industry. If you have any inquiries or opportunities, please feel free to reach out to me at [rashmirb@umich.edu].
