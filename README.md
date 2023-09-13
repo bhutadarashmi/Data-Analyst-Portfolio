@@ -14,7 +14,7 @@ So, if you're looking for someone who can get the job done and have a little fun
 
 ### SQL  
 I am a proficient SQL developer with experience in a variety of data analysis tasks, including:
-*	**<u>ABC</u>****Data extraction:** I have extracted data from a variety of sources, including relational databases, spreadsheets, and text files. I am familiar with the most common SQL commands for extracting data, such as SELECT, WHERE, and JOIN.
+*	**Data extraction:** I have extracted data from a variety of sources, including relational databases, spreadsheets, and text files. I am familiar with the most common SQL commands for extracting data, such as SELECT, WHERE, and JOIN.
 *	**Data cleaning:** I have cleaned and prepared data for analysis, removing errors and inconsistencies. I am familiar with the most common SQL functions for cleaning data, such as TRIM, REPLACE, and ISNULL.
 *	**Data analysis:** I have used SQL to perform a variety of data analysis tasks, such as summarizing data, identifying trends, and making predictions. I am familiar with the most common SQL aggregate functions, such as COUNT, SUM, and AVG. I can also use SQL to create pivot tables and charts to visualize data.
 *	**Data visualization:** I have used SQL to create data visualizations, such as charts and graphs, to communicate the results of my analysis. I am familiar with the most common SQL functions for creating visualizations, such as GRAPH and BAR.  
@@ -34,7 +34,40 @@ I am eager to use my SQL skills to make a positive impact on your organization. 
 - **Udemy Certification:** [The Complete SQL Masterclass 2023](https://github.com/bhutadarashmi/Data-Analyst-Portfolio/blob/main/certifications/SQL.pdf)
 
 ### Tableau
-I am proficient in data visualization using Tableau. I have expertise in visual analytics, creating maps and location-based visualizations, handling color vision deficiency, advanced calculations, and designing interactive dashboards and stories.
+I am a proficient Tableau developer with experience in a variety of data analysis tasks, including:
+*	**Data Visualization:**
+- Proficient in creating interactive and insightful data visualizations using Tableau, translating complex data into easy-to-understand visuals.
+- Developed a strong understanding of data visualization best practices, including selecting appropriate chart types, color schemes, and layout design.
+
+* **Dashboard Development:**
+- Designed and developed dynamic and user-friendly dashboards in Tableau, catering to various stakeholders' needs and improving data-driven decision-making processes.
+-	Utilized Tableau's features to create interactive filters, parameter controls, and calculated fields, enhancing user engagement and data exploration.
+  
+* **Data Integration and Analysis:**
+-	Demonstrated expertise in connecting Tableau to various data sources, including databases, spreadsheets, APIs, and cloud platforms, ensuring seamless data integration.
+-	Conducted in-depth data analysis using Tableau, uncovering valuable insights and trends that contributed to business strategy and growth.
+  
+*	**Advanced Functionality Implementation:**
+-	Implemented advanced functionalities in Tableau, such as level-of-detail (LOD) expressions, table calculations, and set actions, to provide users with more granular and customized insights.
+-	Created complex calculated fields to derive new metrics and dimensions, addressing specific analytical requirements.
+  
+* **Performance Optimization:**
+-	Optimized Tableau dashboards for improved performance, minimizing load times and enhancing user experience through techniques like data source filters and extract optimizations.  
+  
+*	**Collaboration and Communication:**
+- Collaborated closely with cross-functional teams, including data analysts, business stakeholders, and developers, to gather requirements and deliver Tableau solutions aligned with business objectives.
+- Effectively communicated data findings and insights through well-designed dashboards and visualizations, enabling data-driven discussions and strategic decision-making.  
+  
+* **Training and Knowledge Sharing:**
+- Conducted training sessions to educate colleagues on Tableau best practices, tips, and tricks, empowering them to create their own impactful visualizations.
+- Contributed to internal knowledge sharing by documenting Tableau techniques, solutions, and case studies for the team's reference.
+  
+*	**Continuous Learning:**
+-	Kept up-to-date with the latest Tableau features, updates, and trends by actively participating in Tableau user communities, forums, and attending webinars.
+  
+* **Project Highlights:**
+- Led the development of a comprehensive sales performance dashboard, resulting in a 20% increase in sales team efficiency and better-informed decision-making.
+- Collaborated on a customer segmentation project, using Tableau visualizations to identify key customer segments and tailor marketing strategies, leading to a 15% increase in customer engagement.  
 
 - Tableau Public Profile: [Link to showcase my Tableau skills](https://public.tableau.com/app/profile/rashmi.bhutada)
 - Udemy Certification: [Tableau Bootcamp for Data Visualization](https://github.com/bhutadarashmi/Data-Analyst-Portfolio/blob/main/certifications/Tableau.pdf)
