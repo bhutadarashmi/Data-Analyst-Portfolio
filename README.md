@@ -14,7 +14,7 @@ So, if you're looking for someone who can get the job done and have a little fun
 
 ### SQL  
 I am a proficient SQL developer with experience in a variety of data analysis tasks, including:
-*	<u>**Data extraction:**</u> I have extracted data from a variety of sources, including relational databases, spreadsheets, and text files. I am familiar with the most common SQL commands for extracting data, such as SELECT, WHERE, and JOIN.
+*	**<u>Data extraction:</u>** I have extracted data from a variety of sources, including relational databases, spreadsheets, and text files. I am familiar with the most common SQL commands for extracting data, such as SELECT, WHERE, and JOIN.
 *	**Data cleaning:** I have cleaned and prepared data for analysis, removing errors and inconsistencies. I am familiar with the most common SQL functions for cleaning data, such as TRIM, REPLACE, and ISNULL.
 *	**Data analysis:** I have used SQL to perform a variety of data analysis tasks, such as summarizing data, identifying trends, and making predictions. I am familiar with the most common SQL aggregate functions, such as COUNT, SUM, and AVG. I can also use SQL to create pivot tables and charts to visualize data.
 *	**Data visualization:** I have used SQL to create data visualizations, such as charts and graphs, to communicate the results of my analysis. I am familiar with the most common SQL functions for creating visualizations, such as GRAPH and BAR.  
