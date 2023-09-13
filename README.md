@@ -14,24 +14,24 @@ So, if you're looking for someone who can get the job done and have a little fun
 
 ### SQL  
 I am a proficient SQL developer with experience in a variety of data analysis tasks, including:
-*	Data extraction: I have extracted data from a variety of sources, including relational databases, spreadsheets, and text files. I am familiar with the most common SQL commands for extracting data, such as SELECT, WHERE, and JOIN.
-*	Data cleaning: I have cleaned and prepared data for analysis, removing errors and inconsistencies. I am familiar with the most common SQL functions for cleaning data, such as TRIM, REPLACE, and ISNULL.
-*	Data analysis: I have used SQL to perform a variety of data analysis tasks, such as summarizing data, identifying trends, and making predictions. I am familiar with the most common SQL aggregate functions, such as COUNT, SUM, and AVG. I can also use SQL to create pivot tables and charts to visualize data.
-*	Data visualization: I have used SQL to create data visualizations, such as charts and graphs, to communicate the results of my analysis. I am familiar with the most common SQL functions for creating visualizations, such as GRAPH and BAR.  
+*	**Data extraction:** I have extracted data from a variety of sources, including relational databases, spreadsheets, and text files. I am familiar with the most common SQL commands for extracting data, such as SELECT, WHERE, and JOIN.
+*	**Data cleaning:** I have cleaned and prepared data for analysis, removing errors and inconsistencies. I am familiar with the most common SQL functions for cleaning data, such as TRIM, REPLACE, and ISNULL.
+*	**Data analysis:** I have used SQL to perform a variety of data analysis tasks, such as summarizing data, identifying trends, and making predictions. I am familiar with the most common SQL aggregate functions, such as COUNT, SUM, and AVG. I can also use SQL to create pivot tables and charts to visualize data.
+*	**Data visualization:** I have used SQL to create data visualizations, such as charts and graphs, to communicate the results of my analysis. I am familiar with the most common SQL functions for creating visualizations, such as GRAPH and BAR.  
   
 I am also experienced in the following:
-*	Managing databases: I can create, alter, and manage databases. I am familiar with the most common SQL commands for managing databases, such as CREATE DATABASE, ALTER TABLE, and DROP TABLE.
-*	Developing stored procedures: I can develop stored procedures to automate repetitive tasks. I am familiar with the most common SQL commands for developing stored procedures, such as CREATE PROCEDURE and EXEC.
-*	Using functions and aggregates: I can use functions and aggregates to perform calculations on data. I am familiar with the most common SQL functions and aggregates, such as SUM, AVG, and COUNT.
-*	Optimizing queries: I can optimize queries to improve performance. I am familiar with the most common techniques for optimizing SQL queries, such as using indexes and partitioning.
-*	Using indexes: I can use indexes to improve the performance of queries. I am familiar with the most common types of indexes and how to create them.
+*	**Managing databases:** I can create, alter, and manage databases. I am familiar with the most common SQL commands for managing databases, such as CREATE DATABASE, ALTER TABLE, and DROP TABLE.
+*	**Developing stored procedures:** I can develop stored procedures to automate repetitive tasks. I am familiar with the most common SQL commands for developing stored procedures, such as CREATE PROCEDURE and EXEC.
+*	**Using functions and aggregates:** I can use functions and aggregates to perform calculations on data. I am familiar with the most common SQL functions and aggregates, such as SUM, AVG, and COUNT.
+*	**Optimizing queries:** I can optimize queries to improve performance. I am familiar with the most common techniques for optimizing SQL queries, such as using indexes and partitioning.
+*	**Using indexes:** I can use indexes to improve the performance of queries. I am familiar with the most common types of indexes and how to create them.
   
 I have a strong understanding of the SQL language and its capabilities. I am also familiar with the best practices for writing efficient and effective SQL queries. I am confident that I can use my SQL skills to contribute to your team and help you achieve your goals.  
 
 I have also completed several SQL challenges, quizzes, and small projects, which have helped me to solidify my skills and learn new techniques. I am always looking for new ways to learn and improve my SQL skills.
 I am eager to use my SQL skills to make a positive impact on your organization. I am confident that I can be a valuable asset to your team.
 
-- Udemy Certification: [The Complete SQL Masterclass 2023](https://github.com/bhutadarashmi/Data-Analyst-Portfolio/blob/main/certifications/SQL.pdf)
+- **Udemy Certification:** [The Complete SQL Masterclass 2023](https://github.com/bhutadarashmi/Data-Analyst-Portfolio/blob/main/certifications/SQL.pdf)
 
 ### Tableau
 I am proficient in data visualization using Tableau. I have expertise in visual analytics, creating maps and location-based visualizations, handling color vision deficiency, advanced calculations, and designing interactive dashboards and stories.
