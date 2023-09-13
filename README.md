@@ -59,7 +59,7 @@ I am a proficient Tableau developer with experience in a variety of data analysi
   -	Kept up-to-date with the latest Tableau features, updates, and trends by actively participating in Tableau user communities, forums, and attending webinars.
 9. **Project Highlights:**
   - Led the development of a comprehensive sales performance dashboard, resulting in a 20% increase in sales team efficiency and better-informed decision-making.
-  - Collaborated on a customer segmentation project, using Tableau visualizations to identify key customer segments and tailor marketing strategies, leading to a 15% increase in customer engagement.
+  - Collaborated on a customer segmentation project, using Tableau visualizations to identify key customer segments and tailor marketing strategies, leading to a 15% increase in customer engagement.  
   
   
 - Tableau Public Profile: [Link to showcase my Tableau skills](https://public.tableau.com/app/profile/rashmi.bhutada)
