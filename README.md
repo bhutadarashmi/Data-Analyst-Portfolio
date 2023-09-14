@@ -36,30 +36,30 @@ I am eager to use my SQL skills to make a positive impact on your organization. 
 ### Tableau
 I am a proficient Tableau developer with experience in a variety of data analysis tasks, including:
 1. **Data Visualization:**
-  - Proficient in creating interactive and insightful data visualizations using Tableau, translating complex data into easy-to-understand visuals.
-  - Developed a strong understanding of data visualization best practices, including selecting appropriate chart types, color schemes, and layout design.
+    - Proficient in creating interactive and insightful data visualizations using Tableau, translating complex data into easy-to-understand visuals.
+    - Developed a strong understanding of data visualization best practices, including selecting appropriate chart types, color schemes, and layout design.
 2. **Dashboard Development:**
-  - Designed and developed dynamic and user-friendly dashboards in Tableau, catering to various stakeholders' needs and improving data-driven decision-making processes.
-  -	Utilized Tableau's features to create interactive filters, parameter controls, and calculated fields, enhancing user engagement and data exploration.
+    - Designed and developed dynamic and user-friendly dashboards in Tableau, catering to various stakeholders' needs and improving data-driven decision-making processes.
+    -	Utilized Tableau's features to create interactive filters, parameter controls, and calculated fields, enhancing user engagement and data exploration.
 3. **Data Integration and Analysis:**
-  -	Demonstrated expertise in connecting Tableau to various data sources, including databases, spreadsheets, APIs, and cloud platforms, ensuring seamless data integration.
-  -	Conducted in-depth data analysis using Tableau, uncovering valuable insights and trends that contributed to business strategy and growth.
+    -	Demonstrated expertise in connecting Tableau to various data sources, including databases, spreadsheets, APIs, and cloud platforms, ensuring seamless data integration.
+    -	Conducted in-depth data analysis using Tableau, uncovering valuable insights and trends that contributed to business strategy and growth.
 4. **Advanced Functionality Implementation:**
-  -	Implemented advanced functionalities in Tableau, such as level-of-detail (LOD) expressions, table calculations, and set actions, to provide users with more granular and customized insights.
-  -	Created complex calculated fields to derive new metrics and dimensions, addressing specific analytical requirements.
+    -	Implemented advanced functionalities in Tableau, such as level-of-detail (LOD) expressions, table calculations, and set actions, to provide users with more granular and customized insights.
+    -	Created complex calculated fields to derive new metrics and dimensions, addressing specific analytical requirements.
 5. **Performance Optimization:**
-  -	Optimized Tableau dashboards for improved performance, minimizing load times and enhancing user experience through techniques like data source filters and extract optimizations.
+    -	Optimized Tableau dashboards for improved performance, minimizing load times and enhancing user experience through techniques like data source filters and extract optimizations.
 6. **Collaboration and Communication:**
-  - Collaborated closely with cross-functional teams, including data analysts, business stakeholders, and developers, to gather requirements and deliver Tableau solutions aligned with business objectives.
-  - Effectively communicated data findings and insights through well-designed dashboards and visualizations, enabling data-driven discussions and strategic decision-making.
+    - Collaborated closely with cross-functional teams, including data analysts, business stakeholders, and developers, to gather requirements and deliver Tableau solutions aligned with business objectives.
+    - Effectively communicated data findings and insights through well-designed dashboards and visualizations, enabling data-driven discussions and strategic decision-making.
 7. **Training and Knowledge Sharing:**
-  - Conducted training sessions to educate colleagues on Tableau best practices, tips, and tricks, empowering them to create their own impactful visualizations.
-  - Contributed to internal knowledge sharing by documenting Tableau techniques, solutions, and case studies for the team's reference.
+    - Conducted training sessions to educate colleagues on Tableau best practices, tips, and tricks, empowering them to create their own impactful visualizations.
+    - Contributed to internal knowledge sharing by documenting Tableau techniques, solutions, and case studies for the team's reference.
 8. **Continuous Learning:**
-  -	Kept up-to-date with the latest Tableau features, updates, and trends by actively participating in Tableau user communities, forums, and attending webinars.
+    -	Kept up-to-date with the latest Tableau features, updates, and trends by actively participating in Tableau user communities, forums, and attending webinars.
 9. **Project Highlights:**
-  - Led the development of a comprehensive sales performance dashboard, resulting in a 20% increase in sales team efficiency and better-informed decision-making.
-  - Collaborated on a customer segmentation project, using Tableau visualizations to identify key customer segments and tailor marketing strategies, leading to a 15% increase in customer engagement.  
+    - Led the development of a comprehensive sales performance dashboard, resulting in a 20% increase in sales team efficiency and better-informed decision-making.
+    - Collaborated on a customer segmentation project, using Tableau visualizations to identify key customer segments and tailor marketing strategies, leading to a 15% increase in customer engagement.  
   
   
 - Tableau Public Profile: [Link to showcase my Tableau skills](https://public.tableau.com/app/profile/rashmi.bhutada)
@@ -69,31 +69,31 @@ I am a proficient Tableau developer with experience in a variety of data analysi
 I am familiar with Google Cloud Platform services, particularly in data processing and storage. I have hands-on experience with BigQuery, including exploring and preparing data, creating datasets, and visualizing insights. I have hands on experience with Google analytics tool, also I work with creating workflow/data pipelines through Google data flow tool.  
 
 1. Google Cloud Big Data and Machine Learning Fundamentals
-* Big Data and Machine Learning on Google Cloud
-* Data Engineering for Streaming Data
-* Big Data with BigQuery
-* Machine Learning Options on Google Cloud
-* The Machine Learning Workflow with Vertex AI  
+  * Big Data and Machine Learning on Google Cloud
+  * Data Engineering for Streaming Data
+  * Big Data with BigQuery
+  * Machine Learning Options on Google Cloud
+  * The Machine Learning Workflow with Vertex AI  
 
 2. Exploring and Preparing your Data with BigQuery
-* Introduction to Data on Google Cloud
-* Big Data Tools Overview
-* Exploring Data with SQL
-* BigQuery Pricing
-* Cleaning and Transforming Data  
+  * Introduction to Data on Google Cloud
+  * Big Data Tools Overview
+  * Exploring Data with SQL
+  * BigQuery Pricing
+  * Cleaning and Transforming Data  
 
 3. Creating New BigQuery Datasets and Visualizing Insights
-* Storing and Exporting Data
-* Ingesting New Datasets into BigQuery
-* Joining and Merging Datasets
-* Data Visualization with Looker studio  
+  * Storing and Exporting Data
+  * Ingesting New Datasets into BigQuery
+  * Joining and Merging Datasets
+  * Data Visualization with Looker studio  
 
 4. Achieving Advanced Insights with BigQuery
-* Advanced Functions and Clauses
-* Schema Design and Nested Data Structures
-* Optimizing for Performance
-* Advanced Insights with Vertex AI Workbench
-* Data Access
+  * Advanced Functions and Clauses
+  * Schema Design and Nested Data Structures
+  * Optimizing for Performance
+  * Advanced Insights with Vertex AI Workbench
+  * Data Access
   
 - Google Cloud Platform Training and Certifications Profile: [Link to my Google Cloud Platform profile](https://partner.cloudskillsboost.google/public_profiles/a1edd24f-41b1-43ba-8cd5-8fb83897a739)
 
