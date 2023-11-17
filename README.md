@@ -102,6 +102,28 @@ I have a solid foundation in Python programming, covering various topics such as
 
 - Udemy Certification: [The Complete Python Bootcamp from Zero to Hero in Python](https://github.com/bhutadarashmi/Data-Analyst-Portfolio/blob/main/certifications/Python.pdf)
 
+### Excel
+I have successfully completed the Microsoft Excel Essentials course on Udemy, enhancing my proficiency in Excel and gaining valuable skills in various aspects, including: 
+1. **Data Manipulation and Analysis:** 
+    - Mastered data manipulation techniques, such as sorting, filtering, and using formulas, to efficiently analyze and derive insights from large datasets. 
+    - Developed a solid understanding of Excel functions and their applications, including statistical, lookup, and logical functions. 
+2. **Spreadsheet Organization and Formatting:** 
+    - Acquired skills in organizing and formatting spreadsheets effectively, ensuring clarity and ease of interpretation for end-users.
+    - Explored advanced formatting options, such as conditional formatting and cell styling, to enhance the visual presentation of data.
+3. **Chart Creation and Data Visualization:**
+    -	Demonstrated proficiency in creating visually appealing charts and graphs to represent data trends and patterns.
+    -	Explored various chart types within Excel, selecting the most suitable for different data scenarios.
+4. **PivotTables and PivotCharts:**
+    -	Utilized PivotTables to summarize and analyze complex data, enabling streamlined reporting and decision-making.
+    -	Created dynamic PivotCharts to visually represent PivotTable insights, enhancing data exploration and presentation capabilities.
+5. **Advanced Excel Features:**
+    -	Explored advanced Excel features, including data validation, goal seeking, and scenario analysis, to solve complex business problems efficiently.
+    -	Automated tasks using macros and gained an understanding of basic VBA (Visual Basic for Applications) for Excel.
+
+By completing this course, I have strengthened my Excel skills and am well-equipped to handle diverse data-related tasks, contributing to effective decision-making and data-driven solutions.
+  
+- Udemy Certification: [Excel Essentials for the Real World (Complete Excel Course)](https://github.com/bhutadarashmi/Data-Analyst-Portfolio/blob/main/certifications/Excel%20-%20Udemy.pdf)
+ 
 ### Master Data Management, Informatica
 I am proficient with conectpts as:
   MDM Architecture
